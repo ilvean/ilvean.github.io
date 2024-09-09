@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ilvean.github.io/rlT/sitemap.rlT.gz
